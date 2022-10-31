@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		746ABA4A290FCFFE00D850A0 /* cosmosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746ABA49290FCFFE00D850A0 /* cosmosApp.swift */; };
-		746ABA4C290FCFFE00D850A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746ABA4B290FCFFE00D850A0 /* ContentView.swift */; };
-		746ABA4E290FD00600D850A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 746ABA4D290FD00600D850A0 /* Assets.xcassets */; };
-		746ABA51290FD00600D850A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 746ABA50290FD00600D850A0 /* Preview Assets.xcassets */; };
+		747EF52629102BA9004AAB2B /* cosmosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747EF52529102BA9004AAB2B /* cosmosApp.swift */; };
+		747EF52829102BA9004AAB2B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747EF52729102BA9004AAB2B /* ContentView.swift */; };
+		747EF52A29102BAC004AAB2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 747EF52929102BAC004AAB2B /* Assets.xcassets */; };
+		747EF52D29102BAC004AAB2B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 747EF52C29102BAC004AAB2B /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		746ABA46290FCFFE00D850A0 /* cosmos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cosmos.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		746ABA49290FCFFE00D850A0 /* cosmosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cosmosApp.swift; sourceTree = "<group>"; };
-		746ABA4B290FCFFE00D850A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		746ABA4D290FD00600D850A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		746ABA50290FD00600D850A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		747EF52229102BA9004AAB2B /* cosmos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cosmos.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		747EF52529102BA9004AAB2B /* cosmosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cosmosApp.swift; sourceTree = "<group>"; };
+		747EF52729102BA9004AAB2B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		747EF52929102BAC004AAB2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		747EF52C29102BAC004AAB2B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		746ABA43290FCFFE00D850A0 /* Frameworks */ = {
+		747EF51F29102BA9004AAB2B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		746ABA3D290FCFFE00D850A0 = {
+		747EF51929102BA9004AAB2B = {
 			isa = PBXGroup;
 			children = (
-				746ABA48290FCFFE00D850A0 /* cosmos */,
-				746ABA47290FCFFE00D850A0 /* Products */,
+				747EF52429102BA9004AAB2B /* cosmos */,
+				747EF52329102BA9004AAB2B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		746ABA47290FCFFE00D850A0 /* Products */ = {
+		747EF52329102BA9004AAB2B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				746ABA46290FCFFE00D850A0 /* cosmos.app */,
+				747EF52229102BA9004AAB2B /* cosmos.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		746ABA48290FCFFE00D850A0 /* cosmos */ = {
+		747EF52429102BA9004AAB2B /* cosmos */ = {
 			isa = PBXGroup;
 			children = (
-				746ABA49290FCFFE00D850A0 /* cosmosApp.swift */,
-				746ABA4B290FCFFE00D850A0 /* ContentView.swift */,
-				746ABA4D290FD00600D850A0 /* Assets.xcassets */,
-				746ABA4F290FD00600D850A0 /* Preview Content */,
+				747EF52529102BA9004AAB2B /* cosmosApp.swift */,
+				747EF52729102BA9004AAB2B /* ContentView.swift */,
+				747EF52929102BAC004AAB2B /* Assets.xcassets */,
+				747EF52B29102BAC004AAB2B /* Preview Content */,
 			);
 			path = cosmos;
 			sourceTree = "<group>";
 		};
-		746ABA4F290FD00600D850A0 /* Preview Content */ = {
+		747EF52B29102BAC004AAB2B /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				746ABA50290FD00600D850A0 /* Preview Assets.xcassets */,
+				747EF52C29102BAC004AAB2B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,13 +70,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		746ABA45290FCFFE00D850A0 /* cosmos */ = {
+		747EF52129102BA9004AAB2B /* cosmos */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 746ABA54290FD00600D850A0 /* Build configuration list for PBXNativeTarget "cosmos" */;
+			buildConfigurationList = 747EF53029102BAC004AAB2B /* Build configuration list for PBXNativeTarget "cosmos" */;
 			buildPhases = (
-				746ABA42290FCFFE00D850A0 /* Sources */,
-				746ABA43290FCFFE00D850A0 /* Frameworks */,
-				746ABA44290FCFFE00D850A0 /* Resources */,
+				747EF51E29102BA9004AAB2B /* Sources */,
+				747EF51F29102BA9004AAB2B /* Frameworks */,
+				747EF52029102BA9004AAB2B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +84,25 @@
 			);
 			name = cosmos;
 			productName = cosmos;
-			productReference = 746ABA46290FCFFE00D850A0 /* cosmos.app */;
+			productReference = 747EF52229102BA9004AAB2B /* cosmos.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		746ABA3E290FCFFE00D850A0 /* Project object */ = {
+		747EF51A29102BA9004AAB2B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					746ABA45290FCFFE00D850A0 = {
+					747EF52129102BA9004AAB2B = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
 				};
 			};
-			buildConfigurationList = 746ABA41290FCFFE00D850A0 /* Build configuration list for PBXProject "cosmos" */;
+			buildConfigurationList = 747EF51D29102BA9004AAB2B /* Build configuration list for PBXProject "cosmos" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 746ABA3D290FCFFE00D850A0;
-			productRefGroup = 746ABA47290FCFFE00D850A0 /* Products */;
+			mainGroup = 747EF51929102BA9004AAB2B;
+			productRefGroup = 747EF52329102BA9004AAB2B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				746ABA45290FCFFE00D850A0 /* cosmos */,
+				747EF52129102BA9004AAB2B /* cosmos */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		746ABA44290FCFFE00D850A0 /* Resources */ = {
+		747EF52029102BA9004AAB2B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				746ABA51290FD00600D850A0 /* Preview Assets.xcassets in Resources */,
-				746ABA4E290FD00600D850A0 /* Assets.xcassets in Resources */,
+				747EF52D29102BAC004AAB2B /* Preview Assets.xcassets in Resources */,
+				747EF52A29102BAC004AAB2B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		746ABA42290FCFFE00D850A0 /* Sources */ = {
+		747EF51E29102BA9004AAB2B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				746ABA4C290FCFFE00D850A0 /* ContentView.swift in Sources */,
-				746ABA4A290FCFFE00D850A0 /* cosmosApp.swift in Sources */,
+				747EF52829102BA9004AAB2B /* ContentView.swift in Sources */,
+				747EF52629102BA9004AAB2B /* cosmosApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		746ABA52290FD00600D850A0 /* Debug */ = {
+		747EF52E29102BAC004AAB2B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -205,7 +205,7 @@
 			};
 			name = Debug;
 		};
-		746ABA53290FD00600D850A0 /* Release */ = {
+		747EF52F29102BAC004AAB2B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -259,7 +259,7 @@
 			};
 			name = Release;
 		};
-		746ABA55290FD00600D850A0 /* Debug */ = {
+		747EF53129102BAC004AAB2B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -267,6 +267,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"cosmos/Preview Content\"";
+				DEVELOPMENT_TEAM = M469534D78;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -274,6 +275,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -283,11 +285,11 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		746ABA56290FD00600D850A0 /* Release */ = {
+		747EF53229102BAC004AAB2B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -295,6 +297,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"cosmos/Preview Content\"";
+				DEVELOPMENT_TEAM = M469534D78;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -302,6 +305,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,32 +315,32 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		746ABA41290FCFFE00D850A0 /* Build configuration list for PBXProject "cosmos" */ = {
+		747EF51D29102BA9004AAB2B /* Build configuration list for PBXProject "cosmos" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				746ABA52290FD00600D850A0 /* Debug */,
-				746ABA53290FD00600D850A0 /* Release */,
+				747EF52E29102BAC004AAB2B /* Debug */,
+				747EF52F29102BAC004AAB2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		746ABA54290FD00600D850A0 /* Build configuration list for PBXNativeTarget "cosmos" */ = {
+		747EF53029102BAC004AAB2B /* Build configuration list for PBXNativeTarget "cosmos" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				746ABA55290FD00600D850A0 /* Debug */,
-				746ABA56290FD00600D850A0 /* Release */,
+				747EF53129102BAC004AAB2B /* Debug */,
+				747EF53229102BAC004AAB2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 746ABA3E290FCFFE00D850A0 /* Project object */;
+	rootObject = 747EF51A29102BA9004AAB2B /* Project object */;
 }
